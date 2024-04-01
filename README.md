@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu1621&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu1621" /> </p>
 
--🌱 I am happy to discuss about: Data Structures and Algorithms, Programming in Python/Java, Computer concepts(Operating 
+-🌱 I am happy to discuss about: Data Structures and Algorithms, Programming in C++, JS, Computer concepts(Operating 
   Systems,Computer Networking,Databases), Full Stack development & OpenAI.
 - 📫 How to reach me **gaur.priyanshu169@gmail.com**
 - 💬  Ask me anything about my domain, 🤝 ready to help : )
