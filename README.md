@@ -10,7 +10,9 @@
 
 ### 📚 I'm a tech enthusiast
 
-### 🎲 Fun fact: If the code works, don't ask me how... just enjoy the magic!
+### 🎲 Fun fact: If it works, don't question the spell—just bask in the magic!:
+
+ 
 
 <br>
 
